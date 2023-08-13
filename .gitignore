@@ -1,0 +1,15 @@
+# AutoCAD files
+*.bak
+*.dwl
+*.dwl2
+*.log
+*.lsp
+*.sld
+*.sv$
+*.pc3
+*.ctb
+*.stb
+*.xls
+*.xlsx
+*.csv
+*.pdf
